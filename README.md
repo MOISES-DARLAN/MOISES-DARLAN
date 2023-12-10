@@ -5,9 +5,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=MOISES-DARLAN&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOISES-DARLAN&layout=compact&langs_count=8&card_width=310&theme=tokyonight" />
-</a>
+  <img height=180 width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES-DARLAN&layout=compact&theme=tokyonight" />
+</a>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="moises-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
