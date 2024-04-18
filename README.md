@@ -1,11 +1,11 @@
-# Olá! Eu sou Moisés Darlan {gifs/wave}
+# Olá! me chamo Moisés Darlan.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOISES-DARLAN&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES-DARLAN&layout=compact&theme=radical)
 <br> <br> <br>
 
-## Linguagens e Tecnologias que Eu Amo:
+## Linguagens e Tecnologias que utilizo no dia a dia:
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,python,bootstrap,javascript,mysql,html,css,sequelize,express&theme=light)](https://skills.thijs.gg)
 
@@ -23,7 +23,7 @@
 
 ## Sobre Mim:
 
-Sou um entusiasta da programação apaixonado por resolver problemas complexos com código. Atualmente, estou trabalhando em projetos relacionados a desenvolvimento web e aprendendo mais sobre React. Adoro colaborar com outros desenvolvedores em projetos interessantes e estou sempre em busca de novos desafios.
+Atualmente tenho 18 anos de idade e estou cursando analise e desenvvolvimento de sistemas. Procuro me aprofundar na área da tecnologia desde que eu tinha 17 anos quando assistir o curso em video de python e até agora não parei. Nos ultimos messes estou me aprofundando no estudo de backend utilizando nodejs e desenvolvimento de Apis. Tenho breves conhecimentos em front-end tabém. Embora não fale fluentemente o inglês; busco continuamente me aperfeiçoar nele. Acho que por enquanto isso é tudo que você precisa saber sobre mim:)
 
 Curiosidade: Quando não estou codificando, gosto de assistir animes e doramas
 
