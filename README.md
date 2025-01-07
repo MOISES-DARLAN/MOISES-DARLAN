@@ -15,15 +15,15 @@
 <div><br> 
   <a href="https://instagram.com/moisesdarlan.oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:moisesdarlan440@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/moises-darlan-0a027a1a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/+55699969-7434" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/moisesdarlan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/+55699983-1192" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
 <br> <br> <br>
 
 ## Sobre Mim:
 
-Atualmente tenho 18 anos de idade e estou cursando analise e desenvvolvimento de sistemas. Procuro me aprofundar na área da tecnologia desde que eu tinha 17 anos quando assistir o curso em video de python e até agora não parei. Nos ultimos messes estou me aprofundando no estudo de backend utilizando nodejs e desenvolvimento de Apis. Tenho breves conhecimentos em front-end tabém. Embora não fale fluentemente o inglês; busco continuamente me aperfeiçoar nele. Acho que por enquanto isso é tudo que você precisa saber sobre mim:)
+Atualmente tenho 18 anos de idade e estou cursando engenharia de software. Procuro me aprofundar na área da tecnologia desde que eu tinha 16 anos quando assisti o curso em video de python e até agora não parei. Nos ultimos messes estou me aprofundando no estudo de backend utilizando nodejs e desenvolvimento de Apis, mas senti que deveria migrar pra java. Tenho breves conhecimentos em front-end tabém. Embora não fale fluentemente o inglês; busco continuamente me aperfeiçoar nele. Acho que por enquanto isso é tudo que você precisa saber sobre mim:)
 
 Curiosidade: Quando não estou codificando, gosto de assistir animes e doramas
 
