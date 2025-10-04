@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Moisés Darlan  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOISES-DARLAN&show_icons=true&theme=radical)
-  <a href="https://github.com/MOISES-DARLAN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES-DARLAN&layout=compact&langs_count=7&theme=radical"/>
 
+| ![MOISÉS Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MOISES-DARLAN&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOISES-DARLAN&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOISES-DARLAN&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOISES-DARLAN&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MOISES-DARLAN&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 ---
 
 ## 🙋 Sobre Mim  
